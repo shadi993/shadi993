@@ -9,7 +9,7 @@ love to learn programming and make projects
 
 ## contact 📝:
 discord: shadi.h<br>
-my discord server(18+): [SUDO](https://discord.gg/EsKKn5yDzj
+my discord server(18+): [SUDO](https://discord.gg/EsKKn5yDzj)
 
 <!---
 shadi993/shadi993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

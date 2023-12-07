@@ -8,7 +8,7 @@ love to learn programming and make projects
 - javascript
 
 ## contact 📝:
-discord: shadi.h
+discord: shadi.h<br>
 my discord server(18+): [SUDO](https://discord.gg/EsKKn5yDzj
 
 <!---

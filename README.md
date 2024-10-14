@@ -1,6 +1,7 @@
 ## hello 👋
  my name is shadi
 love to learn programming and make projects
+i use Arch Linux btw
 
 ## what i learned so far 📔:
 - C#
